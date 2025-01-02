@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore other system-specific or IDE-related files
+.idea/
+*.pyc
+__pycache__/
+
